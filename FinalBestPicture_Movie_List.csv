@@ -1,0 +1,95 @@
+Moviename,Runtime (min),Genre,Rating,MPAA_Rating,Director,Actors,Votes,Year,Gross (M),Updated Genre
+Nomadland,107,Drama,7.3,R,Chloé Zhao,"Frances McDormand, David Strathairn, Linda May, Gay DeForest",145861,2020,0.0,Drama
+Parasite,132,"Comedy, Drama, Thriller",8.6,R,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee, Yeo-jeong Cho, Woo-sik Choi",720099,2019,53.37,Comedy
+Green Book,130,"Biography, Comedy, Drama",8.2,PG-13,Peter Farrelly,"Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco",452059,2018,85.08,Biography
+The Shape of Water,123,"Drama, Fantasy, Romance",7.3,R,Guillermo del Toro,"Sally Hawkins, Octavia Spencer, Michael Shannon, Doug Jones",404394,2017,63.86,Drama
+Moonlight,111,Drama,7.4,R,Barry Jenkins,"Mahershala Ali, Naomie Harris, Trevante Rhodes, Alex R. Hibbert",296487,2016,27.85,Drama
+Spotlight,129,"Biography, Crime, Drama",8.1,R,Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber",454178,2015,45.06,Biography
+Birdman or (The Unexpected Virtue of Ignorance),119,"Comedy, Drama",7.7,R,Alejandro G. Iñárritu,"Michael Keaton, Zach Galifianakis, Edward Norton, Andrea Riseborough",612674,2014,42.34,Comedy
+12 Years a Slave,134,"Biography, Drama, History",8.1,R,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt",678998,2013,56.67,Biography
+Argo,120,"Biography, Drama, Thriller",7.7,R,Ben Affleck,"Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin",600497,2012,136.03,Biography
+The Artist,100,"Comedy, Drama, Romance",7.9,PG-13,Michel Hazanavicius,"Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell",238423,2011,44.67,Comedy
+The King's Speech,118,"Biography, Drama, History",8.0,R,Tom Hooper,"Colin Firth, Geoffrey Rush, Helena Bonham Carter, Derek Jacobi",666405,2010,138.8,Biography
+Slumdog Millionaire,120,"Drama, Romance",8.0,R,Danny Boyle,"Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor",828573,2008,141.32,Drama
+The Hurt Locker,131,"Drama, Thriller, War",7.5,R,Kathryn Bigelow,"Jeremy Renner, Anthony Mackie, Brian Geraghty, Guy Pearce",441389,2008,17.02,Drama
+No Country for Old Men,122,"Crime, Drama, Thriller",8.1,R,Ethan Coen,"Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson",928859,2007,74.28,Crime
+The Departed,151,"Crime, Drama, Thriller",8.5,R,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",1271463,2006,132.38,Crime
+Million Dollar Baby,132,"Drama, Sport",8.1,PG-13,Clint Eastwood,"Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel",669498,2004,100.49,Drama
+Crash,112,"Crime, Drama, Thriller",7.7,R,Paul Haggis,"Don Cheadle, Sandra Bullock, Thandiwe Newton, Karina Arroyave",431190,2004,54.58,Crime
+The Lord of the Rings: The Return of the King,201,"Action, Adventure, Drama",8.9,PG-13,Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom",1756917,2003,377.85,Action
+Chicago,113,"Comedy, Crime, Musical",7.2,PG-13,Rob Marshall,"Renée Zellweger, Catherine Zeta-Jones, Richard Gere, Taye Diggs",225896,2002,170.69,Comedy
+A Beautiful Mind,135,"Biography, Drama",8.2,PG-13,Ron Howard,"Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",900977,2001,170.74,Biography
+Gladiator,155,"Action, Adventure, Drama",8.5,R,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",1437102,2000,187.71,Action
+American Beauty,122,Drama,8.3,R,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",1123315,1999,130.1,Drama
+Shakespeare in Love,123,"Comedy, Drama, History",7.1,R,John Madden,"Gwyneth Paltrow, Joseph Fiennes, Geoffrey Rush, Tom Wilkinson",221774,1998,100.32,Comedy
+Titanic,194,"Drama, Romance",7.8,PG-13,James Cameron,"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",1122032,1997,659.33,Drama
+The English Patient,162,"Drama, Romance, War",7.4,R,Anthony Minghella,"Ralph Fiennes, Juliette Binoche, Willem Dafoe, Kristin Scott Thomas",186893,1996,78.65,Drama
+Braveheart,178,"Biography, Drama, History",8.3,R,Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen",1007966,1995,75.6,Biography
+Forrest Gump,142,"Drama, Romance",8.8,PG-13,Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise, Sally Field",1967003,1994,330.25,Drama
+Schindler's List,195,"Biography, Drama, History",8.9,R,Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall",1300932,1993,96.9,Biography
+Unforgiven,130,"Drama, Western",8.2,R,Clint Eastwood,"Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris",400133,1992,101.16,Drama
+The Silence of the Lambs,118,"Crime, Drama, Thriller",8.6,R,Jonathan Demme,"Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons",1368820,1991,130.74,Crime
+Dances with Wolves,181,"Adventure, Drama, Western",8.0,PG-13,Kevin Costner,"Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant",255899,1990,184.21,Adventure
+Driving Miss Daisy,99,Drama,7.4,PG,Bruce Beresford,"Morgan Freeman, Jessica Tandy, Dan Aykroyd, Patti LuPone",107300,1989,106.59,Drama
+Rain Man,133,Drama,8.0,R,Barry Levinson,"Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen",498854,1988,178.8,Drama
+The Last Emperor,163,"Biography, Drama, History",7.7,PG-13,Bernardo Bertolucci,"John Lone, Joan Chen, Peter O'Toole, Ruocheng Ying",100546,1987,43.98,Biography
+Platoon,120,"Drama, War",8.1,R,Oliver Stone,"Charlie Sheen, Tom Berenger, Willem Dafoe, Keith David",402843,1986,138.53,Drama
+Out of Africa,161,"Biography, Drama, Romance",7.2,PG,Sydney Pollack,"Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",77884,1985,87.1,Biography
+Amadeus,160,"Biography, Drama, Music",8.3,R,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice",390037,1984,51.97,Biography
+Terms of Endearment,132,"Comedy, Drama",7.4,PG,James L. Brooks,"Shirley MacLaine, Debra Winger, Jack Nicholson, Danny DeVito",59107,1983,108.42,Comedy
+Gandhi,191,"Biography, Drama",8.0,PG,Richard Attenborough,"Ben Kingsley, John Gielgud, Rohini Hattangadi, Roshan Seth",225814,1982,52.77,Biography
+Chariots of Fire,125,"Biography, Drama, Sport",7.2,PG,Hugh Hudson,"Ben Cross, Ian Charleson, Nicholas Farrell, Nigel Havers",58703,1981,58.97,Biography
+Ordinary People,124,Drama,7.7,R,Robert Redford,"Donald Sutherland, Mary Tyler Moore, Judd Hirsch, Timothy Hutton",50775,1980,54.8,Drama
+Kramer vs. Kramer,105,Drama,7.8,PG,Robert Benton,"Dustin Hoffman, Meryl Streep, Jane Alexander, Justin Henry",141897,1979,106.26,Drama
+The Deer Hunter,183,"Drama, War",8.1,R,Michael Cimino,"Robert De Niro, Christopher Walken, John Cazale, John Savage",330802,1978,48.98,Drama
+Annie Hall,93,"Comedy, Romance",8.0,PG,Woody Allen,"Woody Allen, Diane Keaton, Tony Roberts, Carol Kane",261190,1977,39.2,Comedy
+Rocky,120,"Drama, Sport",8.1,PG,John G. Avildsen,"Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers",553452,1976,117.24,Drama
+One Flew Over the Cuckoo's Nest,133,Drama,8.7,R,Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman, Peter Brocco",973997,1975,112.0,Drama
+The Godfather: Part II,202,"Crime, Drama",9.0,R,Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton",1215829,1974,57.3,Crime
+The Sting,129,"Comedy, Crime, Drama",8.3,PG,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw, Charles Durning",255126,1973,159.6,Comedy
+The Godfather,175,"Crime, Drama",9.2,R,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan, Diane Keaton",1753224,1972,134.97,Crime
+The French Connection,104,"Action, Crime, Drama",7.7,R,William Friedkin,"Gene Hackman, Roy Scheider, Fernando Rey, Tony Lo Bianco",119164,1971,15.63,Action
+Patton,172,"Biography, Drama, War",7.9,GP,Franklin J. Schaffner,"George C. Scott, Karl Malden, Stephen Young, Michael Strong",100232,1970,61.7,Biography
+Midnight Cowboy,113,Drama,7.8,R,John Schlesinger,"Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver",108543,1969,44.79,Drama
+Oliver!,153,"Drama, Family, Musical",7.4,G,Carol Reed,"Mark Lester, Ron Moody, Shani Wallis, Oliver Reed",37531,1968,16.8,Drama
+In the Heat of the Night,110,"Crime, Drama, Mystery",7.9,Approved,Norman Jewison,"Sidney Poitier, Rod Steiger, Warren Oates, Lee Grant",74037,1967,24.38,Crime
+A Man for All Seasons,120,"Biography, Drama, History",7.7,G,Fred Zinnemann,"Paul Scofield, Wendy Hiller, Robert Shaw, Leo McKern",33907,1966,28.35,Biography
+The Sound of Music,172,"Biography, Drama, Family",8.0,G,Robert Wise,"Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn",222225,1965,163.21,Biography
+My Fair Lady,170,"Drama, Family, Musical",7.8,G,George Cukor,"Audrey Hepburn, Rex Harrison, Stanley Holloway, Wilfrid Hyde-White",93371,1964,72.0,Drama
+Tom Jones,129,"Adventure, Comedy, History",6.5,Not Rated,Tony Richardson,"Albert Finney, Susannah York, George Devine, Rachel Kempson",12768,1963,37.6,Adventure
+Lawrence of Arabia,228,"Adventure, Biography, Drama",8.3,Approved,David Lean,"Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins",285332,1962,44.82,Adventure
+West Side Story,153,"Crime, Drama, Musical",7.5,Approved,Jerome Robbins,"Natalie Wood, George Chakiris, Richard Beymer, Russ Tamblyn",108876,1961,43.66,Crime
+The Apartment,125,"Comedy, Drama, Romance",8.3,Approved,Billy Wilder,"Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston",176264,1960,18.6,Comedy
+Ben-Hur,212,"Adventure, Drama, History",8.1,G,William Wyler,"Charlton Heston, Jack Hawkins, Stephen Boyd, Haya Harareet",232961,1959,74.7,Adventure
+Gigi,115,"Comedy, Musical, Romance",6.7,G,Vincente Minnelli,"Leslie Caron, Maurice Chevalier, Louis Jourdan, Hermione Gingold",22316,1958,0.0,Comedy
+The Bridge on the River Kwai,161,"Adventure, Drama, War",8.1,PG,David Lean,"William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa",215261,1957,44.91,Adventure
+Around the World in 80 Days,175,"Adventure, Comedy, Family",6.8,G,Michael Anderson,"David Niven, Cantinflas, Finlay Currie, Robert Morley",26735,1956,42.0,Adventure
+Marty,90,"Drama, Romance",7.7,Not Rated,Delbert Mann,"Ernest Borgnine, Betsy Blair, Esther Minciotti, Augusta Ciolli",23648,1955,0.0,Drama
+On the Waterfront,108,"Crime, Drama, Thriller",8.1,Approved,Elia Kazan,"Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger",151291,1954,9.6,Crime
+From Here to Eternity,118,"Drama, Romance, War",7.6,Passed,Fred Zinnemann,"Burt Lancaster, Montgomery Clift, Deborah Kerr, Donna Reed",46086,1953,30.5,Drama
+The Greatest Show on Earth,152,"Drama, Family, Romance",6.6,Passed,Cecil B. DeMille,"James Stewart, Charlton Heston, Betty Hutton, Cornel Wilde",14214,1952,36.0,Drama
+An American in Paris,114,"Drama, Musical, Romance",7.2,Passed,Vincente Minnelli,"Gene Kelly, Leslie Caron, Oscar Levant, Georges Guétary",32942,1951,4.5,Drama
+All About Eve,138,Drama,8.2,Passed,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter, George Sanders, Celeste Holm",128386,1950,0.01,Drama
+All the King's Men,110,"Drama, Film-Noir",7.5,Approved,Robert Rossen,"Broderick Crawford, John Ireland, Joanne Dru, John Derek",14649,1949,0.0,Drama
+Hamlet,154,Drama,7.6,Approved,Laurence Olivier,"Laurence Olivier, Jean Simmons, John Laurie, Esmond Knight",16556,1948,0.0,Drama
+Gentleman's Agreement,118,"Drama, Romance",7.2,Not Rated,Elia Kazan,"Gregory Peck, Dorothy McGuire, John Garfield, Celeste Holm",16027,1947,0.0,Drama
+The Best Years of Our Lives,170,"Drama, Romance, War",8.1,Approved,William Wyler,"Myrna Loy, Dana Andrews, Fredric March, Teresa Wright",62128,1946,23.65,Drama
+The Lost Weekend,101,"Drama, Film-Noir",7.9,Passed,Billy Wilder,"Ray Milland, Jane Wyman, Phillip Terry, Howard Da Silva",36081,1945,9.46,Drama
+Going My Way,126,"Comedy, Drama, Music",7.1,Passed,Leo McCarey,"Bing Crosby, Barry Fitzgerald, Frank McHugh, James Brown",11732,1944,16.3,Comedy
+Mrs. Miniver,134,"Drama, Romance, War",7.6,Not Rated,William Wyler,"Greer Garson, Walter Pidgeon, Teresa Wright, May Whitty",17310,1942,13.5,Drama
+Casablanca,102,"Drama, Romance, War",8.5,PG,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",554430,1942,1.02,Drama
+How Green Was My Valley,118,"Drama, Family",7.7,Passed,John Ford,"Walter Pidgeon, Maureen O'Hara, Anna Lee, Donald Crisp",23550,1941,0.0,Drama
+Rebecca,130,"Drama, Film-Noir, Mystery",8.1,Approved,Alfred Hitchcock,"Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson",133816,1940,4.36,Drama
+Gone with the Wind,238,"Drama, History, Romance",8.1,Passed,Victor Fleming,"Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara O'Neil",307391,1939,198.68,Drama
+You Can't Take It with You,126,"Comedy, Drama, Romance",7.9,Passed,Frank Capra,"Jean Arthur, James Stewart, Lionel Barrymore, Edward Arnold",25166,1938,4.66,Comedy
+The Life of Emile Zola,116,"Biography, Drama",7.2,Passed,William Dieterle,"Paul Muni, Gale Sondergaard, Joseph Schildkraut, Gloria Holden",8042,1937,0.0,Biography
+The Great Ziegfeld,176,"Drama, Musical",6.7,Passed,Robert Z. Leonard,"William Powell, Myrna Loy, Luise Rainer, Frank Morgan",7951,1936,0.0,Drama
+Mutiny on the Bounty,132,"Adventure, Biography, Drama",7.7,Passed,Frank Lloyd,"Charles Laughton, Clark Gable, Franchot Tone, Herbert Mundin",22403,1935,0.0,Adventure
+It Happened One Night,105,"Comedy, Romance",8.1,Passed,Frank Capra,"Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns",101180,1934,4.36,Comedy
+Cavalcade,112,"Drama, Romance, War",5.9,Passed,Frank Lloyd,"Diana Wynyard, Clive Brook, Una O'Connor, Herbert Mundin",5109,1933,7.63,Drama
+Grand Hotel,112,"Drama, Romance",7.4,Not Rated,Edmund Goulding,"Greta Garbo, John Barrymore, Joan Crawford, Wallace Beery",18869,1932,2.69,Drama
+Cimarron,123,"Drama, Western",5.9,Passed,Wesley Ruggles,"Richard Dix, Irene Dunne, Estelle Taylor, Nance O'Neil",6026,1931,0.0,Drama
+All Quiet on the Western Front,152,"Drama, War",8.1,Passed,Lewis Milestone,"Lew Ayres, Louis Wolheim, John Wray, Arnold Lucy",60318,1930,3.27,Drama
+The Broadway Melody,100,"Drama, Musical, Romance",5.7,Passed,Harry Beaumont,"Bessie Love, Anita Page, Charles King, Eddie Kane",7061,1929,6.12,Drama
+Wings,144,"Drama, Romance, War",7.5,PG-13,William A. Wellman,"Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston",12546,1927,6.59,Drama
+Sunrise,94,"Drama, Romance",8.1,Passed,F.W. Murnau,"George O'Brien, Janet Gaynor, Margaret Livingston, Bodil Rosing",50307,1927,0.54,Drama

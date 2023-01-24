@@ -35,4 +35,4 @@
  - Drama movies have won maximum Oscar Awards for Best Picture.
  - Action movies tend to make high revenues.
  - Average ratings for top gross movies is 7.4
- - Covid did really affect the gross margin for the movie industry
+ - Gross margin looks to plummet steeply in 2020 which may be an affect due to Covid.

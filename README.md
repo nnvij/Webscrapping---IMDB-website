@@ -9,3 +9,6 @@
 •	Beautiful Soup, Selenium (data collection)
 •	Pandas (data processing)
 •	Matplotlib, Seaborn
+## Data:
+Movie dataframe: 
+- ![image](https://user-images.githubusercontent.com/103464406/214192679-afa5542c-ce5c-46cd-9b28-55457f3e73cd.png)

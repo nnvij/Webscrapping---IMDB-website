@@ -17,8 +17,12 @@
   ![image](https://user-images.githubusercontent.com/103464406/214417720-a2440f45-3573-4101-98f4-7b268f92d062.png)
   ![image](https://user-images.githubusercontent.com/103464406/214418848-512de7cc-768b-446a-aa99-e2c4fd84ffb8.png)
   ![image](https://user-images.githubusercontent.com/103464406/214419053-a2249ba3-2ab0-4704-b32a-beb7dfe286d9.png)
+  
+![gross_number](https://user-images.githubusercontent.com/103464406/214426522-0ab1b15c-d1c1-4e08-9413-c8c963286d21.png)
+![top10_oscar](https://user-images.githubusercontent.com/103464406/214426624-133fc7ad-9b0e-485c-b270-1a89b00423bb.png)
 
- ### Data Cleanning:
+ ### Data Cleanning:![top10_oscar]
+
  - Used regular expression to extract Year, Gross from respective columns.
  - Converted columns Year, Runtime, Rating, Votes,Gross from String to numeric.
  - Removed null values

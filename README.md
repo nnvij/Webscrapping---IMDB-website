@@ -32,7 +32,6 @@
 
 
  ## Summary:
-    Based on the data collected 
     - Drama movies have won maximum Oscar Awards for Best Picture.
     - Action movies tend to make high revenues.
     - Average ratings for top gross movies is 7.4

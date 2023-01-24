@@ -27,7 +27,9 @@
     - Performed EDA on the data collected using plotlyexpress,seaborn
     
     ![image](https://user-images.githubusercontent.com/103464406/214424391-aa63ab77-dc03-4521-9dfa-a82c188468b4.png)
+    
     ![image](https://user-images.githubusercontent.com/103464406/214424606-efc044a1-38f4-465b-ba4c-ec65369b993f.png)
+    
     ![image](https://user-images.githubusercontent.com/103464406/214425024-e6450e25-9103-4910-921c-85486f405633.png)
 
 
